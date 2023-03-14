@@ -2,9 +2,7 @@
 
 [Paper link](https://arxiv.org/abs/2302.14233)
 
-Authors: Ruiqi Zhong, Peter Zhang, Steve Li, JinWoo Ahn, Dan Klein, Jacob Steinhardt
-
-![OpenD5](OpenD5Fig1.jpg)
+Authors: Ruiqi Zhong, Peter Zhang, Steve Li, #Jinwoo Ahn#, Dan Klein, Jacob Steinhardt
 
 An example D5 problem. The input is a pair of corpus and a research goal, and the output is a discovery in natural language. 
 
